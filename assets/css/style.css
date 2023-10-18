@@ -25,3 +25,10 @@ tr {
 td {
      /* border: solid blue 2px; */
 }
+h1 {
+     text-align: center;
+}
+body {
+     border: 1px solid rgb(7, 6, 6);
+     background-color: rgb(134, 235, 201);
+}
